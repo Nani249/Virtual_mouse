@@ -1,0 +1,2 @@
+# Virtual_mouse
+ The system is trained using a dataset of hand gestures to recognize different  gestures. Once the gesture is recognized, it is translated into a corresponding  mouse movement, which is then executed on the virtual screen.The main objective  of the proposed AI virtual mouse system is to develop an alternative to the regular  and traditional mouse system to perform and control the mouse functions
